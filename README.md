@@ -4,7 +4,7 @@
 ![MY Image](https://github.com/MR-A0/ICMP-FLOODING-TOOL/blob/cacf3ed3c55e32b00d6b9ebab79b789d8c961b56/Screenshot%202024-12-24%20183247.png)
 ![MY Image](https://github.com/MR-A0/ICMP-FLOODING-TOOL/blob/cacf3ed3c55e32b00d6b9ebab79b789d8c961b56/Screenshot%202024-12-24%20183323.png)
 
-This tool is an ICMP flooding utility designed to send a large volume of ICMP Echo Request (ping) packets to a specified target IP address. The flood of packets can potentially overwhelm the target, leading to slowed performance or service disruption. Use responsibly and only for authorized testing purposes.
+THIS TOOL IS AN ICMP FLOODING UTILITY DESIGNED TO SEND A LARGE VOLUME OF ICMP ECHO REQUEST (PING) PACKETS TO A SPECIFIED TARGET IP ADDRESS. THE FLOOD OF PACKETS CAN POTENTIALLY OVERWHELM THE TARGET, LEADING TO SLOWED PERFORMANCE OR SERVICE DISRUPTION. USE RESPONSIBLY AND ONLY FOR AUTHORIZED TESTING PURPOSES.
 
 ## INSTALLATION [root@A:-] :
 
