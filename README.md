@@ -25,6 +25,9 @@ git clone https://github.com/MR-A0/ICMP-FLOODING-TOOL.git
 cd ICMP-FLOODING-TOOL
 ```
 ```
+chmod 777 ICMP-FLOODING-TOOL
+```
+```
 sudo ./ICMP-FLOODING-TOOL
 ```
 
